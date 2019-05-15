@@ -23,5 +23,6 @@ Amazon's trademarks and trade dress may not be used in
 + [Amazon Corretto 11 Guide for macOS](macos-info.md)
    + [Amazon Corretto 11 Installation Instructions for macOS 10.13 or later](macos-install.md)
 + [Downloads for Amazon Corretto 11](downloads-list.md)
++ [Release History for Amazon Corretto 11](download-release-history.md)
 + [Change Log for Amazon Corretto 11](change-log.md)
 + [Document History for User Guide](doc-history.md)

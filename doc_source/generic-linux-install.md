@@ -21,7 +21,7 @@ This section describes how to install and uninstall Amazon Corretto 11 on a host
 **Example**  
 
    ```
-   sudo dpkg --install java-11-amazon-corretto-jdk_11.0.3.7-1_amd64.deb
+   sudo dpkg --install 
    ```
 
 ### Verify Your Installation<a name="debian-deb-verify"></a>
@@ -74,7 +74,7 @@ sudo dpkg --remove java-11-amazon-corretto-jdk
 **Example**  
 
    ```
-   sudo yum localinstall java-11-amazon-corretto-devel-11.0.3.7-1.x86_64.rpm
+   sudo yum localinstall 
    ```
 
 ### Verify Your Installation<a name="rpm-verify"></a>

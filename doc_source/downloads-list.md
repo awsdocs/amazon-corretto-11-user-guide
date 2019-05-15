@@ -8,4 +8,8 @@ This topic lists all the downloads available for Amazon Corretto 11\. Use the li
 
 ## Signature Verification<a name="signature"></a>
 
-Public keys are available and are specific to each release: [11\.0\.3\.7\.1 ](https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/F8152B28.pub) 
+Public keys are available and are specific to each release: [11\.0\.3\.7\.1](https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/F8152B28.pub) 
+
+## Release History<a name="release-history"></a>
+
+For earlier versions, see [Corretto\-11 Releases](https://github.com/corretto/corretto-11/releases) on GitHub\.
