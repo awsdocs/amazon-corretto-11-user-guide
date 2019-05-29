@@ -10,7 +10,7 @@ For the latest version, see [Downloads for Amazon Corretto 11](downloads-list.md
 
 **Signature Verification**
 
-Public keys are available and are specific to each release: [11\.0\.2\.9\.3 \(Linux, Windows\)](https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/11E0D862.pub) and [11\.0\.2\.9\.3 \(macOS\)](gpg.pubkey.url.11.0.2.9.3-1;)\. 
+Public keys are available and are specific to each release: [11\.0\.2\.9\.3 \(Linux, Windows\)](https://d3pxv6yz143wms.cloudfront.net/11.0.2.9.3/11E0D862.pub) and [11\.0\.2\.9\.3 \(macOS\)](https://d3pxv6yz143wms.cloudfront.net/11.0.2.9.3/2A23B28C.pub)\. 
 
 In the terminal, run the following command to verify the installation\.
 
