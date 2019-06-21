@@ -18,6 +18,7 @@ Amazon's trademarks and trade dress may not be used in
 + [List of Patches for Amazon Corretto 11](patches.md)
 + [Amazon Corretto 11 Guide for Linux](linux-info.md)
    + [Amazon Corretto 11 Installation Instructions for Debian-Based and RPM-Based Linux Distributions](generic-linux-install.md)
+   + [Amazon Corretto 11 Installation Instructions for Amazon Linux 2](amazon-linux-install.md)
 + [Amazon Corretto 11 Guide on Windows](windows-info.md)
    + [Amazon Corretto 11 Installation Instructions for Windows 7 or Later](windows-7-install.md)
 + [Amazon Corretto 11 Guide for macOS](macos-info.md)
