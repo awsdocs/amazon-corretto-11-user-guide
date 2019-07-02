@@ -4,6 +4,7 @@
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Aarch64 preview release](#doc-history) | Amazon Corretto 11 is preview on Aarch64\. Documentation has been updated to include installation instructions\. | June 28, 2019 | 
 | [Support for Amazon Linux 2\.](#doc-history) | Amazon Corretto 11 is now available in Amazon Linux 2\. Documentation has been updated to include installation instructions\. | June 19, 2019 | 
 | [Quarterly Corretto update \(11\.0\.3\.7\.1\)\.](#doc-history) | April 2019 update of security fixes for Amazon Corretto 11\. | April 16, 2019 | 
 | [Provide new Corretto 11 \(11\.0\.2\.9\.3\) MacOS installer\.](#doc-history) | Fix issues in Corretto 11 MacOS installer\. | March 19, 2019 | 

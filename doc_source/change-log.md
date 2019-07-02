@@ -2,6 +2,23 @@
 
 The following sections describe the changes for each release of Amazon Corretto 11\.
 
+## Corretto aarch64 preview: version 11\.0\.3\.7\.1<a name="changes-2019-06-28"></a>
+
+Release Date: June 28, 2019
+
+ The following platforms are updated in this release\. 
+
+**Target Platforms**
++  RPM\-based Linux using glibc 2\.17 or later, aarch64 
++  Debian\-based Linux using glibc 2\.17 or later, aarch64 
+
+The following issues and enhancements are addressed in 11\.0\.3\.7\.1\.
+
+
+| Issue Name | Platform | Description | Link | 
+| --- | --- | --- | --- | 
+|  Corretto 11 aarch64 preview  |  aarch64  |  add Corretto 11 builds for aarch64\.  |   | 
+
 ## April 2019 critical patch update: Corretto version 11\.0\.3\.7\.1<a name="changes-2019-04-16"></a>
 
 Release Date: Apr 16, 2019

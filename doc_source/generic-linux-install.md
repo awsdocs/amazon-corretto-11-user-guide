@@ -15,7 +15,7 @@ This section describes how to install and uninstall Amazon Corretto 11 on a host
    sudo apt-get update && sudo apt-get install java-common
    ```
 
-1.  Download the Linux x64 `.deb` file from the [Downloads](downloads-list.md) page\. 
+1.  Download the Linux `.deb` file from the [Downloads](downloads-list.md) page\. 
 
 1.  Install the `.deb` file by using `sudo dpkg --install`\.   
 **Example**  
@@ -68,7 +68,7 @@ sudo dpkg --remove java-11-amazon-corretto-jdk
 
 ### Download and install RPM package manually<a name="rpm-install-instruct"></a>
 
-1.  Download the Linux x64 `.rpm` file from the [Downloads](downloads-list.md) page\. 
+1.  Download the Linux `.rpm` file from the [Downloads](downloads-list.md) page\. 
 
 1.  Install the downloaded `.rpm` file using `yum localinstall`\.   
 **Example**  
