@@ -8,7 +8,7 @@ This topic lists all the downloads available for Amazon Corretto 11\. Use the li
 
 ## Signature Verification<a name="signature"></a>
 
-The public key to verify the SIGNATURE file can be downloaded: [11\.0\.3\.7\.1 \(x86\_64\)](https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/F8152B28.pub) and [11\.0\.3\.7\.1 \(aarch64\)](https://d3pxv6yz143wms.cloudfront.net/11.0.3.7.1/BDB4C4D4.pub)\. 
+The public key to verify the SIGNATURE file can be downloaded [here](https://d3pxv6yz143wms.cloudfront.net/11.0.4.11.1/67F4FCB4.pub)\. 
 
 ## Release History<a name="release-history"></a>
 

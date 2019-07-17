@@ -14,7 +14,7 @@
 
 1.  Once the install wizard is finished, set the `JAVA_HOME` and `PATH` environment variables\. 
 
-   Set `JAVA_HOME` to the installation location, noting that the directory contains the currently\-installed version\. For example, if the default directory is used for 11\.0\.3, then set `JAVA_HOME` as `C:\Program Files\Amazon Corretto\jdk11.0.3_7`\.
+   Set `JAVA_HOME` to the installation location, noting that the directory contains the currently\-installed version\. For example, if the default directory is used for 11\.0\.4, then set `JAVA_HOME` as `C:\Program Files\Amazon Corretto\jdk11.0.4_11`\.
 
    Add `%JAVA_HOME%\bin` to the current `PATH` variable\.
 
@@ -22,9 +22,9 @@
 **Example**  
 
    ```
-   openjdk version "11.0.3" 2019-04-16 LTS
-   OpenJDK Runtime Environment Corretto-11.0.3.7.1 (build 11.0.3+7-LTS)
-   OpenJDK 64-Bit Server VM Corretto-11.0.3.7.1 (build 11.0.3+7-LTS, mixed mode)
+   openjdk version "11.0.4" 2019-07-16 LTS
+   OpenJDK Runtime Environment Corretto-11.0.4.11.1 (build 11.0.4+11-LTS)
+   OpenJDK 64-Bit Server VM Corretto-11.0.4.11.1 (build 11.0.4+11-LTS, mixed mode)
    ```
 
 ## Uninstall Amazon Corretto 11<a name="windows-7-uninstall"></a>

@@ -33,12 +33,12 @@ This section describes how to install and uninstall Amazon Corretto 11 on a host
 ```
 java -version
 ```
-Expected output for 11\.0\.3:   
+Expected output for 11\.0\.4:   
 
 ```
-openjdk version "11.0.3" 2019-04-16 LTS
-OpenJDK Runtime Environment Corretto-11.0.3.7.1 (build 11.0.3+7-LTS)
-OpenJDK 64-Bit Server VM Corretto-11.0.3.7.1 (build 11.0.3+7-LTS, mixed mode)
+openjdk version "11.0.4" 2019-07-16 LTS
+OpenJDK Runtime Environment Corretto-11.0.4.11.1 (build 11.0.4+11-LTS)
+OpenJDK 64-Bit Server VM Corretto-11.0.4.11.1 (build 11.0.4+11-LTS, mixed mode)
 ```
 
  If you see a version string that doesn't mention `Corretto`, run the following command to change the default `java` or `javac` providers\. 
@@ -86,12 +86,12 @@ sudo dpkg --remove java-11-amazon-corretto-jdk
 ```
 java -version
 ```
-This is the expected output for 11\.0\.3:   
+This is the expected output for 11\.0\.4:   
 
 ```
-openjdk version "11.0.3" 2019-04-16 LTS
-OpenJDK Runtime Environment Corretto-11.0.3.7.1 (build 11.0.3+7-LTS)
-OpenJDK 64-Bit Server VM Corretto-11.0.3.7.1 (build 11.0.3+7-LTS, mixed mode)
+openjdk version "11.0.4" 2019-07-16 LTS
+OpenJDK Runtime Environment Corretto-11.0.4.11.1 (build 11.0.4+11-LTS)
+OpenJDK 64-Bit Server VM Corretto-11.0.4.11.1 (build 11.0.4+11-LTS, mixed mode)
 ```
 
  If you see a version string that doesn't mention `Corretto`, run the following command to change the default `java` or `javac` providers\. 

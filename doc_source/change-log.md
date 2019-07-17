@@ -2,6 +2,31 @@
 
 The following sections describe the changes for each release of Amazon Corretto 11\.
 
+## July 2019 critical patch update: Corretto version 11\.0\.4\.11\.1<a name="changes-2019-07-16"></a>
+
+Release Date: Jul 16, 2019
+
+ The following platforms are updated in this release\. 
+
+**Target Platforms**
++  RPM\-based Linux using glibc 2\.12 or later, x86\_64 
++  Debian\-based Linux using glibc 2\.12 or later, x86\_64 
++  RPM\-based Linux using glibc 2\.17 or later, aarch64 
++  Debian\-based Linux using glibc 2\.17 or later, aarch64 
++  Windows 7 or later, x86\_64 
++  macOS 10\.13 and later, x86\_64 
+
+The following issues and enhancements are addressed in 11\.0\.4\.11\.1\.
+
+
+| Issue Name | Platform | Description | Link | 
+| --- | --- | --- | --- | 
+|  Update Corretto to 11\.0\.4\.11\.1\.  |  All  |  Update Corretto 11 patch set to 11\.0\.4\.11\.1\.  |   | 
+|  Include OpenJDK cacerts and Amazon specific cacerts in Corretto11\.  |  All  |  Update cacerts in Corretto11 to include both OpenJDK cacerts and Amazon cacerts\.  |   | 
+|  Debian jinfo file\.  |  Linux  |  Provide jinfo file to make update\-java\-alternatives command works with Corretto11 on Debian\.  |  [corretto\-11\#25](https://github.com/corretto/corretto-11/issues/25)  | 
+|  Fix the Windows Installer does not set file association for jar files\.  |  Windows  |  Jar files can now be double clicked in Windows to open them like they can be with Oracle's JRE\.  |  [corretto\-11\#21](https://github.com/corretto/corretto-11/issues/21)  | 
+|  Fix JAVA\_HOME remains on uninstall of MSI package\.  |  Windows  |  Fix the issue of the system variable JAVA\_HOME remains in the path when uninstalling the MSI package on Windows\.  |  [corretto\-11\#17](https://github.com/corretto/corretto-11/issues/17)  | 
+
 ## Corretto aarch64 preview: version 11\.0\.3\.7\.1<a name="changes-2019-06-28"></a>
 
 Release Date: June 28, 2019
@@ -17,7 +42,7 @@ The following issues and enhancements are addressed in 11\.0\.3\.7\.1\.
 
 | Issue Name | Platform | Description | Link | 
 | --- | --- | --- | --- | 
-|  Corretto 11 aarch64 preview  |  aarch64  |  add Corretto 11 builds for aarch64\.  |   | 
+|  Corretto 11 aarch64 preview  |  Linux aarch64  |  add Corretto 11 builds for aarch64\.  |   | 
 
 ## April 2019 critical patch update: Corretto version 11\.0\.3\.7\.1<a name="changes-2019-04-16"></a>
 
