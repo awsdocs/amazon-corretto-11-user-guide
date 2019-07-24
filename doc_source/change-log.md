@@ -27,6 +27,21 @@ The following issues and enhancements are addressed in 11\.0\.4\.11\.1\.
 |  Fix the Windows Installer does not set file association for jar files\.  |  Windows  |  Jar files can now be double clicked in Windows to open them like they can be with Oracle's JRE\.  |  [corretto\-11\#21](https://github.com/corretto/corretto-11/issues/21)  | 
 |  Fix JAVA\_HOME remains on uninstall of MSI package\.  |  Windows  |  Fix the issue of the system variable JAVA\_HOME remains in the path when uninstalling the MSI package on Windows\.  |  [corretto\-11\#17](https://github.com/corretto/corretto-11/issues/17)  | 
 
+The following CVEs are addressed in 11\.0\.4\.11\.1\.
+
+
+| CVE \# | Component Affected | 
+| --- | --- | 
+|  CVE\-2019\-7317  |  AWT \(libpng\)  | 
+|  CVE\-2019\-2821  |  JSSE  | 
+|  CVE\-2019\-2766  |  Networking  | 
+|  CVE\-2019\-2816  |  Networking  | 
+|  CVE\-2019\-2745  |  Security  | 
+|  CVE\-2019\-2786  |  Security  | 
+|  CVE\-2019\-2818  |  Security  | 
+|  CVE\-2019\-2762  |  Utilities  | 
+|  CVE\-2019\-2769  |  Utilities  | 
+
 ## Corretto aarch64 preview: version 11\.0\.3\.7\.1<a name="changes-2019-06-28"></a>
 
 Release Date: June 28, 2019
