@@ -2,6 +2,23 @@
 
 The following sections describe the changes for each release of Amazon Corretto 11\.
 
+## GA release: 11\.0\.4\.11\.1: Amazon Corretto 11<a name="changes-2019-09-17"></a>
+
+Release Date: Sept 17, 2019
+
+ The following platforms are updated in this release\. 
+
+**Target Platforms**
++  RPM\-based Linux using glibc 2\.17 or later, aarch64 
++  Debian\-based Linux using glibc 2\.17 or later, aarch64 
+
+The following issues and enhancements are addressed in 11\.0\.4\.11\.1\.
+
+
+| Issue Name | Platform | Description | Link | 
+| --- | --- | --- | --- | 
+|  Update Corretto 11\.0\.4\.11\.1 RC to 11\.0\.4\.11\.1 GA\.  |  aarch64  |  Amazon Corretto 11\.0\.4\.11\.1 for aarch64 is now GA\.  |   | 
+
 ## July 2019 critical patch update: Corretto version 11\.0\.4\.11\.1<a name="changes-2019-07-16"></a>
 
 Release Date: Jul 16, 2019
