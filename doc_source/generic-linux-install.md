@@ -101,7 +101,7 @@ After the repository is added, you can install Corretto 11 by running this comma
 **Example**  
 
 ```
-sudo yum update; sudo yum install -y java-11-amazon-corretto-devel
+sudo yum install -y java-11-amazon-corretto-devel
 ```
 
 ### Download and install RPM package manually<a name="rpm-install-instruct"></a>
