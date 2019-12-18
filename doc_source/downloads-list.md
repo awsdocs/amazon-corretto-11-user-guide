@@ -9,7 +9,7 @@ Permanent URLs are hosted at *corretto\.aws* and always point to the most recent
 **Example**  
 
 ```
-sh#wget https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.tar.gz
+wget https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.tar.gz
 ```
 
 <a name="newtable"></a>[\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
@@ -17,7 +17,7 @@ sh#wget https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.t
 **Note**: Notice that the above links follow this format:
 
 ```
-            https://corretto.aws/[latest/latest_checksum]/amazon-corretto-[corretto_version]-[cpu_arch]-[os]-[package_type].[file_extension]
+https://corretto.aws/[latest/latest_checksum]/amazon-corretto-[corretto_version]-[cpu_arch]-[os]-[package_type].[file_extension]
 ```
 
 ## Corretto 11 Versioned Download Links<a name="download"></a>
