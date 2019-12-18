@@ -26,7 +26,7 @@ sh#curl https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.t
 
 ## Signature Verification<a name="signature"></a>
 
-The public key to verify the SIGNATURE file can be downloaded: [Windows and Linux](https://d3pxv6yz143wms.cloudfront.net/11.0.5.10.1/209DDBC0.pub) and [MacOS](https://d3pxv6yz143wms.cloudfront.net/11.0.5.10.2/B3E42D5D.pub)\. 
+The public key to verify the SIGNATURE file can be downloaded: [Windows and Linux](https://corretto.aws/downloads/resources/11.0.5.10.1/209DDBC0.pub) and [MacOS](https://corretto.aws/downloads/resources/11.0.5.10.2/B3E42D5D.pub)\. 
 
 ## Release History<a name="release-history"></a>
 
