@@ -17,7 +17,7 @@ wget https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.tar.
 **Note**: Notice that the above links follow this format:
 
 ```
-https://corretto.aws/[latest/latest_checksum]/amazon-corretto-[corretto_version]-[cpu_arch]-[os]-[package_type].[file_extension]
+https://corretto.aws/downloads/[latest/latest_checksum]/amazon-corretto-[corretto_version]-[cpu_arch]-[os]-[package_type].[file_extension]
 ```
 
 ## Corretto 11 Versioned Download Links<a name="download"></a>
