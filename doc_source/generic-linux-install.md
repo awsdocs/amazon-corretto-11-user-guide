@@ -28,6 +28,7 @@ After the repo has been added, you can install Corretto 11 by running this comma
 ### Download and Install the Debian Package Manually<a name="debian-deb-install-instruct"></a>
 
 1.  Before you install the JDK, install the `java-common` package\.   
+
 **Example**  
 
    ```
@@ -37,6 +38,7 @@ After the repo has been added, you can install Corretto 11 by running this comma
 1.  Download the Linux `.deb` file from the [Downloads](downloads-list.md) page\. 
 
 1.  Install the `.deb` file by using `sudo dpkg --install`\.   
+
 **Example**  
 
    ```
