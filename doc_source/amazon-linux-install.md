@@ -32,6 +32,7 @@ sudo yum install java-11-amazon-corretto
 
 ```
 sudo alternatives --config java
+sudo alternatives --config javac
 ```
 
 ## Uninstall Amazon Corretto 11<a name="amazon-linux-uninstall"></a>
