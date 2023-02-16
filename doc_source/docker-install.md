@@ -24,16 +24,18 @@ OpenJDK 64-Bit Server VM Corretto-11.0.5.10.1 (build 11.0.5+10-LTS, mixed mode)
 
 ## Using the Corretto ECR Instance<a name="amazon-corretto-yum-erc"></a>
 
-To use the Corretto ECR instance, first authenticate the docker client to the Corretto registry \( registry id : 489478819445\) with the help of the instructions in this [page](https://aws.amazon.com/blogs/compute/authenticating-amazon-ecr-repositories-for-docker-cli-with-credential-helper/)\. 
-
+To get Corretto docker images from Amazon ECR please see [Amazon Corretto's ECR Public Gallery](https://gallery.ecr.aws/amazoncorretto/amazoncorretto) as well as the [Docker Official Images ECR Public Gallery](https://gallery.ecr.aws/docker/library/amazoncorretto)
  
 
 **Example**  
 
 ```
- docker pull 489478819445.dkr.ecr.us-west-2.amazonaws.com/corretto11:latest 
- docker run -it 489478819445.dkr.ecr.us-west-2.amazonaws.com/corretto11:latest /bin/bash
+docker pull public.ecr.aws/amazoncorretto/amazoncorretto:latest
+docker run -it public.ecr.aws/amazoncorretto/amazoncorretto:latest /bin/bash/amazoncorretto:latest /bin/bash
 ```
+
+You can see the list of available images by going [here](https://gallery.ecr.aws/amazoncorretto/amazoncorretto).
+
 
 ## Build a Docker Image with Amazon Corretto 11<a name="docker-build-instruct"></a>
 
